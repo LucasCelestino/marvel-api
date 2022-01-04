@@ -1,0 +1,13 @@
+body
+{
+    background-color: #202020;
+}
+
+.comic-wrapper
+{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.form-search::placeholder {
+    color: #FFF !important;
+}
