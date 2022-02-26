@@ -1,2 +1,2 @@
 # marvel-api
-Estudo de APIs com javascript usando a API da marvel
+Estudo de APIs com javascript consumindo a API da marvel
